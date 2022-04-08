@@ -20,6 +20,7 @@ class AsyncForm {
     }
      this.element = element;
      this.registerEvents();
+    //  this.
   }
 
   /**
@@ -45,12 +46,12 @@ class AsyncForm {
     const keyValue = {};
     for (let item of formData.entries()) {
       const key = item[0];
-      const value = item[1];
+      const value = item[1].charAt(0).toUpperCase() + item[1].slice(1);
       keyValue[key] = value;
     }
     return keyValue
   }
-
+  
   onSubmit(options){
 
   }

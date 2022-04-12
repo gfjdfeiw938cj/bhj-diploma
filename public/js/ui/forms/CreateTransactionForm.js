@@ -41,6 +41,7 @@ class CreateTransactionForm extends AsyncForm {
     Transaction.create(data, (err, response) => {
       if (err === null && response.success) {
         this.element.reset();
+        console.log("new" + this.getData().type)
         App.getModal(("new" + this.getData().type)).close();
         App.update();
       }

@@ -17,6 +17,12 @@
       "email": "arturgame@mail.ru",
       "password": "43056",
       "id": "1evmz3kegl1iuk2o0"
+    },
+    {
+      "name": "Grunddd",
+      "email": "Artyrgam@mail.ru",
+      "password": "123056",
+      "id": "1evmz36pkl1w73ima"
     }
   ],
   "accounts": [
@@ -49,6 +55,11 @@
       "name": "Ytyy",
       "user_id": "1evmz3f9ol1itzl41",
       "id": "1evmz35hol1qmzrvr"
+    },
+    {
+      "name": "Eee",
+      "user_id": "1evmz36pkl1w73ima",
+      "id": "1evmz3aakl1w744fp"
     }
   ],
   "transactions": [
@@ -231,6 +242,87 @@
       "account_id": "1evmz36pgl1qmz2bu",
       "user_id": "1evmz3f9ol1itzl41",
       "created_at": "2022-04-08T16:22:41.735Z"
+    },
+    {
+      "id": "1evmz39uwl1w74ctg",
+      "type": "income",
+      "name": "Счёт №1",
+      "sum": 2000,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:45:06.531Z"
+    },
+    {
+      "id": "1evmz3a44l1w74jtn",
+      "type": "expense",
+      "name": "Счёт №2",
+      "sum": 1000,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:45:15.610Z"
+    },
+    {
+      "id": "1evmz3l2gl1w7c6w0",
+      "type": "expense",
+      "name": "Счёт №1",
+      "sum": 10,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:51:12.095Z"
+    },
+    {
+      "id": "1evmz3lh8l1w7d2jr",
+      "type": "expense",
+      "name": "Счёт №2",
+      "sum": 10,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:51:53.126Z"
+    },
+    {
+      "id": "1evmz3518l1w7e4ap",
+      "type": "expense",
+      "name": "Счёт №3",
+      "sum": 10,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:52:42.048Z"
+    },
+    {
+      "id": "1evmz3jmsl1w7ey4p",
+      "type": "expense",
+      "name": "Счёт №4",
+      "sum": 10,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:53:20.712Z"
+    },
+    {
+      "id": "1evmz3hosl1w7gbl5",
+      "type": "expense",
+      "name": "Счёт №5",
+      "sum": 10,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T13:54:24.808Z"
+    },
+    {
+      "id": "1evmz3kncl1w8xvuo",
+      "type": "expense",
+      "name": "Счёт №2",
+      "sum": 10,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T14:36:03.839Z"
+    },
+    {
+      "id": "1evmz3lesl1w8y2o1",
+      "type": "income",
+      "name": "Счёт №1",
+      "sum": 1000,
+      "account_id": "1evmz3aakl1w744fp",
+      "user_id": "1evmz36pkl1w73ima",
+      "created_at": "2022-04-12T14:36:12.672Z"
     }
   ]
 }
